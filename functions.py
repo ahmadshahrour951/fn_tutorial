@@ -19,3 +19,12 @@ print(subtract(15, 10))
 print(subtract(0, 5))
 
 
+def divide(num1, num2):
+    result = num1 / num2
+    return result
+
+
+print(divide(18, 6))
+print(divide(10, 5))
+
+
