@@ -28,3 +28,10 @@ print(divide(18, 6))
 print(divide(10, 5))
 
 
+def add(num1, num2):
+    result = num1 + num2
+    return result
+
+
+print(add(15, 10))
+print(add(0, 5))
